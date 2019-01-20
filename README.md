@@ -10,9 +10,7 @@ A C# port by Necrolis is available at https://github.com/Necrolis/GeoSharp
 
 Usage:
 
-First download a placenames file from http://download.geonames.org/export/dump/
-
-Allcountries.zip from that site is comprehensive however if you're on mobile try the cities1000.zip file. It's 1/80th of the size.
+First download placename files from http://download.geonames.org/export/dump/
 
 Then simply
 
