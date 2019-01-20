@@ -37,6 +37,7 @@
 
 	<profiles>
 		<profile>
+		<!-- Run with: mvn release:prepare -P release -->
 			<id>release</id>
 			<build>
 				<plugins>
