@@ -5,7 +5,7 @@
 	<groupId>OfflineReverseGeocode</groupId>
 	<artifactId>OfflineReverseGeocode</artifactId>
 	<packaging>jar</packaging>
-	<version>2.0.2</version>
+	<version>2.0.3-SNAPSHOT</version>
 	<name>Offline Reverse Geocoding Java library</name>
 	<url>http://github.com/AReallyGoodName/OfflineReverseGeocode</url>
 
@@ -58,7 +58,7 @@
 		<connection>scm:git:git@github.com:cryxy/OfflineReverseGeocode.git</connection>
 		<url>scm:git:git@github.com:cryxy/OfflineReverseGeocode.git</url>
 		<developerConnection>scm:git:git@github.com:cryxy/OfflineReverseGeocode.git</developerConnection>
-	  <tag>2.0.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 
